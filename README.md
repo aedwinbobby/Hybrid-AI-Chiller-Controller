@@ -11,9 +11,13 @@ This hybrid approach makes the chiller system both intelligent and energy-effici
 🧩 Key Features
 
 ✅ Predicts chilled water temperature dynamically
+
 ✅ Adapts to load and ambient temperature changes
+
 ✅ Combines AI learning with physical HVAC principles
-✅ Interactive Gradio Web Interface
+
+✅ Interactive Gradio Web Interface 
+
 ✅ Realistic trend — colder water for higher load
 
 🧠 How It Works
